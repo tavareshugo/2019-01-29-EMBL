@@ -217,6 +217,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+
 {% comment %}
   SCHEDULE
 
@@ -235,33 +236,36 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 
+<hr/>
 
-{% comment %}
-  SYLLABUS
 
-  Show what topics will be covered.
+<h2 id="resources">Further resources</h2>
 
-  1. If your workshop is R rather than Python, remove the comment
-     around that section and put a comment around the Python section.
-  2. Some workshops will delete SQL.
-  3. Please make sure the list of topics is synchronized with what you
-     intend to teach.
-  4. You may need to move the div's with class="col-md-6" around inside
-     the div's with class="row" to balance the multi-column layout.
+<ul>
+<li><a href="https://tavareshugo.github.io/data_carpentry_extras/recap_intro_r/recap_intro_r.html">Summary of R basics</a></li>
+<li><a href="https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html">Summary of dplyr functions and their equivalent in base R</a></li>
+<li><a href="https://www.rstudio.com/resources/cheatsheets/">Cheatsheets for dplyr, ggplot2 and more</a></li>
+<li>Use the <a href="https://www.data-to-viz.com/">Data to Viz</a> website to 
+help choose appropriate visualisations for your dataset (and also some caveats to think 
+about when making a graph!).</li>
+</ul>
 
-  This is one of the places where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
-<h2 id="syllabus">Syllabus</h2>
+<p>Extra materials/books:</p>
 
-{% if page.carpentry == "swc" %}
-  {% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/syllabus.html %}
-{% endif %}
+<ul>
+<li><a href="http://r4ds.had.co.nz/">R for Data Science</a> - a nice follow-up from this course focusing on "tidyverse" packages</li>
+<li><a href="http://www-bcf.usc.edu/~gareth/ISL/">Introduction to Statistical Learning</a> - an introductory book about machine learning using R
+
+
+<ul>
+<li>Also see <a href="https://lgatto.github.io/IntroMachineLearningWithR/">this course material</a> for a practical introduction to this topic</li></ul>
+</li>
+
+<li><a href="https://xcelab.net/rm/statistical-rethinking/">Statistical Rethinking</a> (not freely available) - an introduction book about statistical modelling using R</li>
+
+<li>The <a href="https://greenteapress.com/wp/">"Think X"</a> series of books, which focus on python, but are freely available</li>
+</ul>
+
 
 <hr/>
 
