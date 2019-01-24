@@ -254,17 +254,19 @@ about when making a graph!).</li>
 <p>Extra materials/books:</p>
 
 <ul>
-<li><a href="http://r4ds.had.co.nz/">R for Data Science</a> - a nice follow-up from this course focusing on "tidyverse" packages</li>
-<li><a href="http://www-bcf.usc.edu/~gareth/ISL/">Introduction to Statistical Learning</a> - an introductory book about machine learning using R
-
+<li><a href="https://bookdown.org/rdpeng/exdata/">Exploratory Data Analysis with R</a> by Roger D. Peng - covers principles of exploratory data analysis, including visualisation, clustering (hierarchical, k-means) and dimensionality reduction (PCA)</li>
+<li><a href="http://r4ds.had.co.nz/">R for Data Science</a> by Garrett Grolemund & Hadley Wickham - learn more about using the "tidyverse" package for data analysis</li>
+<li><a href="http://www-bcf.usc.edu/~gareth/ISL/">Introduction to Statistical Learning</a> by Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani - introduction to machine learning using R
 
 <ul>
 <li>Also see <a href="https://lgatto.github.io/IntroMachineLearningWithR/">this course material</a> for a practical introduction to this topic</li></ul>
 </li>
 
-<li><a href="https://xcelab.net/rm/statistical-rethinking/">Statistical Rethinking</a> (not freely available) - an introduction book about statistical modelling using R</li>
+<li><a href="https://xcelab.net/rm/statistical-rethinking/">Statistical Rethinking</a> by Richard McElreath (not freely available) - an introduction to statistical modelling using R
+<ul>
+<li>Lectures for this course are freely available <a href="https://github.com/rmcelreath/statrethinking_winter2019">here</a></li></ul>
+</li>
 
-<li>The <a href="https://greenteapress.com/wp/">"Think X"</a> series of books, which focus on python, but are freely available</li>
 </ul>
 
 
