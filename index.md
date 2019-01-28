@@ -365,7 +365,7 @@ about when making a graph!).</li>
   <p>
     We will use several R packages in the course, which you can install before the course.
     To install the packages open RStudio and on the upper menu go to "Tools > Install Packages". 
-    In the box that opens type <code>tidyverse, gridExtra, dbplyr, RSQLite, RMySQL</code>
+    In the box that opens type <code>tidyverse, gridExtra, dbplyr, RSQLite, RMariaDB</code>
   </p>
     If you have problems, we can help you during the course.
 
