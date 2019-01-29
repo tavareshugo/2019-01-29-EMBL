@@ -242,12 +242,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="resources">Further resources</h2>
 
 <ul>
-<li><a href="https://tavareshugo.github.io/data_carpentry_extras/recap_intro_r/recap_intro_r.html">Summary of R basics</a></li>
-<li><a href="https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html">Summary of dplyr functions and their equivalent in base R</a></li>
 <li><a href="https://www.rstudio.com/resources/cheatsheets/">Cheatsheets for dplyr, ggplot2 and more</a></li>
-<li><a href="https://www.data-to-viz.com/">Data to Viz</a> website helps you choose 
-appropriate visualisations for your data (and also some caveats to think 
-about when making a graph!).</li>
 </ul>
 
 <p></p>
