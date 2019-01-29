@@ -251,6 +251,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <ul>
 <li><a href="https://bookdown.org/rdpeng/exdata/">Exploratory Data Analysis with R</a> by Roger D. Peng - covers principles of exploratory data analysis, including visualisation, clustering (hierarchical, k-means) and dimensionality reduction (PCA)</li>
 <li><a href="http://r4ds.had.co.nz/">R for Data Science</a> by Garrett Grolemund & Hadley Wickham - learn more about using the "tidyverse" package for data analysis</li>
+<li><a href="https://www.huber.embl.de/msmb/"></a></li>
 <li><a href="http://www-bcf.usc.edu/~gareth/ISL/">Introduction to Statistical Learning</a> by Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani - introduction to machine learning using R
 
 <ul>
